@@ -41,7 +41,7 @@ namespace AddressBookApp
             // Save the contacts to a file or database
             SaveContactsToFile();
 
-            MessageBox.Show("Contact saved successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Details saved successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             textBox1.Clear();
             textBox2.Clear();

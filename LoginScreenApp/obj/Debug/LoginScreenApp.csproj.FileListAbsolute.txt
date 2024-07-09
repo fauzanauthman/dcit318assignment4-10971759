@@ -1,0 +1,10 @@
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\LoginScreenApp\bin\Debug\LoginScreenApp.exe.config
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\LoginScreenApp\bin\Debug\LoginScreenApp.exe
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\LoginScreenApp\bin\Debug\LoginScreenApp.pdb
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\LoginScreenApp\obj\Debug\LoginScreenApp.csproj.AssemblyReference.cache
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\LoginScreenApp\obj\Debug\LoginScreenApp.Form1.resources
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\LoginScreenApp\obj\Debug\LoginScreenApp.Properties.Resources.resources
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\LoginScreenApp\obj\Debug\LoginScreenApp.csproj.GenerateResource.cache
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\LoginScreenApp\obj\Debug\LoginScreenApp.csproj.CoreCompileInputs.cache
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\LoginScreenApp\obj\Debug\LoginScreenApp.exe
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\LoginScreenApp\obj\Debug\LoginScreenApp.pdb
