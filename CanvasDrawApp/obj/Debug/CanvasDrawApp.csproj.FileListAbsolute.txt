@@ -1,0 +1,10 @@
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\CanvasDrawApp\bin\Debug\CanvasDrawApp.exe.config
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\CanvasDrawApp\bin\Debug\CanvasDrawApp.exe
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\CanvasDrawApp\bin\Debug\CanvasDrawApp.pdb
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\CanvasDrawApp\obj\Debug\CanvasDrawApp.csproj.AssemblyReference.cache
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\CanvasDrawApp\obj\Debug\CanvasDrawApp.Form1.resources
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\CanvasDrawApp\obj\Debug\CanvasDrawApp.Properties.Resources.resources
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\CanvasDrawApp\obj\Debug\CanvasDrawApp.csproj.GenerateResource.cache
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\CanvasDrawApp\obj\Debug\CanvasDrawApp.csproj.CoreCompileInputs.cache
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\CanvasDrawApp\obj\Debug\CanvasDrawApp.exe
+C:\Users\fauza\Source\Repos\fauzanauthman\dcit318assignment4-10971759\CanvasDrawApp\obj\Debug\CanvasDrawApp.pdb
